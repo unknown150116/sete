@@ -1,0 +1,24 @@
+html{
+   background-image: url("bg.jpeg");
+   height: auto;
+   width: auto;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+
+
+#clock {
+    font-size: 175px;
+    width: 900px;
+    margin : 200px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+    text-align: center;
+    
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+   
+    
+  }
+ 
